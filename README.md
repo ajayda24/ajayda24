@@ -39,7 +39,7 @@
 <p align="center">
 <a href="https://www.ajdaniel.gq/"><img alt="Website" src="https://img.shields.io/badge/Website-ajdaniel.gq-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ajay-daniel-trevor-1bb7951b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ajay%20Daniel%20Trevor-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ajayda24/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ajayda24-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ajaydanieltrevor/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ajayda24-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ajaydtrevor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajaydtrevor%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
